@@ -1,2 +1,3 @@
 mountpoints:
-  /: https://adobe.sharepoint.com/:f:/r/sites/HelixProjects/Shared%20Documents/sites/adobe/wknd
+/: https://drive.google.com/drive/folders/1B4pWQ_br8WDaNLnnqUfWaODJk46X7lLI
+#  /: https://adobe.sharepoint.com/:f:/r/sites/HelixProjects/Shared%20Documents/sites/adobe/wknd
